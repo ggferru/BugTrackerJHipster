@@ -1,0 +1,2 @@
+org.springframework.test.context.ContextCustomizerFactory=\
+it.lookup.bugtracker.config.SqlTestContainersSpringContextCustomizerFactory
